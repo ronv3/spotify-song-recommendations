@@ -1,0 +1,40 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook temporary and checkpoint files
+.ipynb_checkpoints/
+*.~*
+
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore environment files
+env/
+venv/
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Ignore Google Colab session files
+*.colab
+*.ipynb~ 
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+*~
+
+# Ignore log files
+*.log
+
+# Ignore other files/directories that should not be versioned
+.vscode/
+.idea/
+*.bak
+*.tmp
+
