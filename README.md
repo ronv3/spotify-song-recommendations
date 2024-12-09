@@ -23,7 +23,7 @@ Below is an overview of the repository's structure:
 
 ### Files and Notebooks:
 - **`D11_report.pdf`**: Comprehensive project report.
-- **`KaggleDataset.csv`**: Original dataset from Kaggle containing over 500,000 songs with features.
+- **`KaggleDataset.csv`**: Original dataset from Kaggle containing over 100,000 songs with features.
 - **`KaggleDataset_reduced.csv`**: Cleaned and reduced dataset for quicker analysis and experimentation.
 - **`data_visualization.ipynb`**: Notebook exploring the dataset using visualizations to extract trends and patterns.
 - **`popularity_prediction.ipynb`**: Notebook developing a popularity prediction model on the dataset.
@@ -36,7 +36,7 @@ Below is an overview of the repository's structure:
 ## Getting Started
 
 ### Dataset
-The dataset used in this project is sourced from [Kaggle Spotify Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset). It includes metadata and audio features of songs released over 100 years.
+The dataset used in this project is sourced from [Kaggle Spotify Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset). It includes of Spotify tracks over a range of 125 different genres. Each track has some audio features associated with it.
 
 ### Link to repository
 Current repository could be found at [here](https://github.com/ronv3/spotify-song-recommendations).
